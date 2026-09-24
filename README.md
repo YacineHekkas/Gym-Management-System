@@ -48,5 +48,5 @@ This application is an Odoo module designed to streamline gym operations, includ
 - Generate and view various gym reports.
 - Track member attendance and ensure data integrity.
 
-#Tech stack
-Odoo 19.0 · Python 3.12 · PostgreSQL 16 · QWeb · Owl/Kanban
+# Tech stack
+- Odoo 19.0 · Python 3.12 · PostgreSQL 16 · QWeb · Owl/Kanban
